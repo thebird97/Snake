@@ -10,6 +10,6 @@ If you beat an level more bricks will appear in the field.
 There are 10 levels
 You beat a level if you eat 2*level apple in each level.
 Your score based on the apples you eat.
-Max highscore 2 * 1 + 2 * 2 + 2 * 3 + .. 2 * 10 = 90
+Max highscore 2 * 1 + 2 * 2 + 2 * 3 + ..  + 2 * 10 = 90
 The Snake connected to a database system where you can see the scores that players earn, and their date and the time played this game.
 
